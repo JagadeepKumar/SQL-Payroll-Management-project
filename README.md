@@ -1,7 +1,3 @@
-# SQL-Payroll-Management-project
-
-# Oracle SQL 
-
 # Payroll Management System (Oracle SQL Project)
 
 This is an  Payroll Management System project** built using Oracle SQL. 
